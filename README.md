@@ -1,4 +1,4 @@
-# thepegleg
+# games.bytelabs.online
 
 <p align="center">
 <img src="favicon.ico" alt="drawing" width="200"/>
@@ -8,7 +8,7 @@
 
 ## Overview
 
-thepegleg is a gaming website done differently.
+games.bytelabs.online is a gaming website done differently.
 
 ## Features
 
@@ -19,8 +19,8 @@ thepegleg is a gaming website done differently.
 - **Movies & Shows** Movie and TV search and streaming with all your favorites.
 - **Chatgpt:** Unblocked and working AI.
 - **Reddit:** Redlib instance to access reddit
-- **Chat:** Interact with thepegleg discord, on the site
-- **Quick updates:** Ask for whatever, and we will try our best to put it on thepegleg.
+- **Chat:** Interact with the games.bytelabs.online discord, on the site
+- **Quick updates:** Ask for whatever, and we will try our best to put it on games.bytelabs.online.
 - **Ad free forever:** There should be nothing to distract you from your distractions, ever. If I can remove the ads from something, I will.
 - **Really cool:** The website is really cool.
 
@@ -28,7 +28,7 @@ thepegleg is a gaming website done differently.
 
 ### Go to any of the following access points and follow instructions
 
-- [pegleg.cbass92.org](https://pegleg.cbass92.org) click on the word Atlas on the 404 page.
+- [games.bytelabs.online](https://games.bytelabs.online)
 - [join the discord for more links](https://discord.gg/8Es3wpnPWd) please
 
 ### [or, you can try it out by clicking here](https://sdfsdf.cbass92.org/asdjklhfskjafhakfhueoyraehfjkcnjkdscnsjakdreuoiwefh/embed.html)
@@ -63,6 +63,7 @@ We are really, really open to contributors. Just make an issue saying what you w
 
 - Project Lead: [Cbass92]
 - Contributors: [elsgcreate]
+- Legacy project credit: thepegleg
 - Game sources: [crazygames](https://crazygames.com), [3kh0](https://3kh0.net), flashpoint, and [myrient](https://myrient.erista.me)
 - Credit to [avinashranjan](https://avinashranjan.com) for https://github.com/avinashkranjan/HLS_VideoPlayer, used in vids
 - Credit to Inside4ndroid for https://github.com/Inside4ndroid/vidsrc-api-js, used in vid

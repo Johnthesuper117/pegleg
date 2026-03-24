@@ -1,7 +1,7 @@
 import './globals.css';
 
 export const metadata = {
-  title: 'thepegleg // terminal',
+  title: 'games.bytelabs.online // terminal',
   description: 'OG terminal-styled game index with multi-system support.',
 };
 

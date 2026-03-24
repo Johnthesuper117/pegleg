@@ -53,7 +53,7 @@ export default function HomePage() {
     <main className="container">
       <section className="terminal">
         <header className="header">
-          <strong>thepegleg // game terminal</strong>
+          <strong>games.bytelabs.online // game terminal</strong>
           <span className="prompt">$ {terminalStatus}</span>
         </header>
 
@@ -94,7 +94,7 @@ export default function HomePage() {
             <option value="nds">nintendo ds</option>
             <option value="genesis">sega genesis</option>
             <option value="mame2003">mame 2003</option>
-            <option value="~pegleg/3kh0">~pegleg/3kh0</option>
+            <option value="~pegleg/3kh0">~pegleg/3kh0 (legacy credit)</option>
             <option value="~selenite">~selenite</option>
             <option value="~native">~native</option>
           </select>
