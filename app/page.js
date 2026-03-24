@@ -46,7 +46,7 @@ export default function HomePage() {
             className="searchInput"
             type="text"
             value={query}
-            placeholder="Search ~200000+ games..."
+            placeholder="Search ~200,000+ games..."
             onChange={(event) => setQuery(event.target.value)}
             onKeyDown={(event) => {
               if (event.key === 'Enter') runSearch();
